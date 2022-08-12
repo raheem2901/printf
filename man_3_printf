@@ -39,6 +39,6 @@ _printf("String: %s", string);
 _printf("Integer: %d", integer); (or use "%i" for print integer, depends of the case).
 
 .SH BUGS
-if there is a default, refer to raheemquadir2003@gmail.com or 
+if there is a default, refer to raheemquadir2003@gmail.com or daveokai19@gmail.com
 .SH AUTHOR
 Raheem Abdulquadir and David Okai
